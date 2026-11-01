@@ -1,8 +1,5 @@
-SILVA DEV — HERO SPACING FIX
+SILVA DEV — PORTFOLIO UPDATE
 
-Upload index.html to replace the existing index.html in your website repository. The other files are included for a complete copy; keep them alongside index.html.
+This copy adds a full stack section and embeds the Silva Drip, SquadUp and profile images directly in index.html. Uploading index.html by itself will retain all three images. CSS and JavaScript are embedded; no build is required.
 
-Fixed the hero padding reset that pushed its content against the screen edge. Mobile hero content now has 20px side gutters, or 16px on screens 360px wide and below. The location line stacks below the introduction on phones. Desktop uses 40px gutters.
-
-CSS and JavaScript are included in index.html. No build required.
-The enquiry form prepares an email draft in the visitor's email app.
+The GitHub Pages workflow and original image files are included in the project folder. Payment integration is described as in test mode, matching the portfolio content.
